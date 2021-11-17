@@ -1,0 +1,32 @@
+{
+   "brandLogo":"https://i.imgur.com/mKDjBEF.png",
+   "mainHomepageImage":"https://i.imgur.com/WOLo3Uu.png",
+   "buildingLogo":"https://i.imgur.com/Obol8IM.png",
+   "homepageTitle":"DLF Alameda Floors",
+   "homepageSubtitle":"By DLF Limited at Sector 73, Gurgaon",
+   "price":"3.85 Cr. *",
+   "announcementText":"25:25:50 Payment Plan | Booking Amount : 10 Lacs",
+   "area":"540 - 700 Sq. Yd.",
+   "possessionBy":"2024",
+   "floorSize":"4 BHK",
+   "whatsAppLink":"https://api.whatsapp.com/send?phone=+919717334003&text=Hi,%20I%27m%20interested%20in%20DLF%20Alameda%20Floors%20Gurgaon",
+   "tilesData":[
+      {
+         "image":"https://i.imgur.com/uKpRHlT.png",
+         "title":"Gallery",
+         "description":"Explore the DLF Alameda Floors exclusive photos & videos."
+      },
+      {
+         "image":"https://i.imgur.com/3ygXs36.png",
+         "title":"Floor Plan",
+         "description":"Explore all DLF Alameda Floor plans (3 BHK, 4 BHK, 5 BHK)"
+      },
+      {
+         "image":"https://i.imgur.com/F8jVhHm.png",
+         "title":"Price List",
+         "description":"DLF Alameda Price list for 3 BHK, 4 BHK & 5 BHK Floors"
+      }
+   ],
+   "popupHeaderImage":"https://i.imgur.com/rQrzSEC.png",
+   "popupFooterImage":"https://i.imgur.com/HbMhM9o.png"
+}
