@@ -31,5 +31,6 @@
       }
    ],
    "popupHeaderImage":"https://i.imgur.com/rQrzSEC.png",
-   "popupFooterImage":"https://i.imgur.com/HbMhM9o.png"
+   "popupFooterImage":"https://i.imgur.com/HbMhM9o.png",
+   "ZAPIER_URL": "https://dlf_alameda.garvmaggu.workers.dev/submitData"
 }
